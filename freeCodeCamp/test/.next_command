@@ -46,3 +46,4 @@ clr
 cl
 clear
 echo goodbye terminal
+exit
