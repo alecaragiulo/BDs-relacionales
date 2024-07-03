@@ -45,3 +45,4 @@ find website-boilerplate/
 clr
 cl
 clear
+echo goodbye terminal
